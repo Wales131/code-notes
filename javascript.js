@@ -3,3 +3,7 @@ setInterval(function(){
     button.click()
 },1)
  
+
+
+
+id="clicker"
